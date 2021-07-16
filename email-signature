@@ -1,0 +1,125 @@
+<head>
+	<title>Josue Email's Signature</title>
+	<meta charset="utf-8" />
+	<!-- Normalize -->
+	<link href="https://necolas.github.io/normalize.css/latest/normalize.css" rel="stylesheet">
+	<!-- Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,700&display=swap" rel="stylesheet">
+	<!-- Style -->
+	<style>
+	
+	body {
+		margin: 0px;
+		padding: 10px;
+	}
+	
+	p {
+		font-family: 'Lato';
+		font-size: 1rem;
+	}
+	
+	div {
+		margin: 0px;
+	}
+	
+	li {
+		list-style-type: none; 
+		letter-spacing: 1px;
+	}
+	
+	a {
+		text-decoration: none; 
+		color: #1a1a1a;
+	}
+	
+	hr {
+		margin: 0px 20px 10px;
+		width: calc(100% - 40px);
+		border: solid 0.5px #1a1a1a;
+	}
+	
+	.images {
+		width: 100px; 
+	}
+	
+	.name {
+		font-family: 'Lato', sans-serif; 
+		font-weight: 700; 
+		font-size: 1rem; 
+		color: #003366;
+	}
+	
+	.role {
+		font-family: 'Lato', sans-serif; 
+		font-weight: 400; 
+		font-style: italic; 
+		font-size: 0.9rem; 
+		color: #1a1a1a;
+	}
+	
+	.department {
+		font-family: 'Lato', sans-serif; 
+		font-weight: 300; 
+		font-size: 0.8rem; 
+		color: #1a1a1a;"
+	}
+	
+	.initial {
+		font-family: 'Lato' , sans-serif; 
+		font-weight: 700; 
+		color: #cc9933; 
+		font-size: 0.8rem
+	}
+	
+	.details {
+		font-family: 'Lato', sans-serif; 
+		font-weight: 100; 
+		font-size: 0.8rem; 
+		color: #1a1a1a;
+	}
+	
+	.footer {
+		font-family: 'Lato', sans-serif; 
+		font-weight: 100; 
+		font-size: 0.8rem
+	}
+	
+	</style>
+</head>
+<body>
+	<div style="min-width: 380px; max-width: 380px;">
+		<div style="float: left; padding: 40px 0px 0px 20px; width: 100px;">
+			<img class="images"; style="padding: 0px 0px 10px" src="https://d4d8xd20er8lg.cloudfront.net/5c6bad26-8954-45e1-8497-55cee853aa90/5X6INkNKvhW3jQHgOOjXOoUY2SOujOgD.png" />
+			<img class="images"; style="padding: 0px" src="https://static.wixstatic.com/media/c65f86_059920ca5f3241eea86fe5d8aa22d5ed~mv2_d_4000_6000_s_4_2.jpeg/v1/fill/w_1440,h_1400,fp_0.44_0.29,q_90,usm_0.66_1.00_0.01/c65f86_059920ca5f3241eea86fe5d8aa22d5ed~mv2_d_4000_6000_s_4_2.jpeg">
+		</div>
+		<div style="float: left; clear: right; margin: 0px 0px 0px -10px; padding: 20px 0px 0px; width: 230px;">
+			<ul>
+				<li style="list-style-type: none; padding: 0px;">
+					<span class="name";>Josue Carames</span>
+				</li>
+				<li style="padding: 0px;">
+					<span class="role";>Director of Digital Content</span>
+				</li>
+				<li style="padding: 0px 0px 10px 0px;">
+					<span class="department";>Fuller Leadership Platform</span>
+				</li>
+				<!-- List -->
+				<li style="padding: 0px;">
+					<span class="initial";>E</span><span class="details";>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:josuecarames@fuller.edu">josuecarames@fuller.edu</a></span>
+				</li>
+				<li style="padding: 0px;">
+					<span class="initial";>W</span><span class="details";>&nbsp;&nbsp;&nbsp;<a href="https://www.fuller.edu">www.fuller.edu</a></span>
+				</li>
+				<li style="padding: 0px;">
+					<span class="initial";>A</span><span class="details";">&nbsp;&nbsp;&nbsp;<a href="https://goo.gl/maps/yDgVK8fGwdTbsd7Y8">135 N. Oakland Ave<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pasadena, CA 91182</a></span>
+				</li>
+			</ul>
+		</div>
+		<hr>
+		<div style="clear: both; padding: 0px 20px; width: calc(100% - 30px);">
+			<span class="footer";>CONFIDENTIALITY WARNING: The information transmitted is intended only for the addressee and may contain confidential and privileged material. Any unauthorized review, distribution or other use of or the taking of any action in reliance upon this information is prohibited. If you received this in error, please contact the sender and delete or destroy this message and any copies immediately.</span>
+		</div>
+	</div>
+</body>
